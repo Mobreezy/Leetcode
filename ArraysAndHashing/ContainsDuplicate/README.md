@@ -36,3 +36,12 @@ End
 #### Complexity Analysis
 + Time Complexity: O(N log(N))
 + Space Complexity: O(1)
+
+
+
+### Running the test cases
+
+``` bash
+clang -o test test.c
+./test
+```
